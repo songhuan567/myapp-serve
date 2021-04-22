@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0af879"],{"0f5b":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("订单设置")])},a=[],s={name:"setting"},u=s,i=t("2877"),r=Object(i["a"])(u,c,a,!1,null,"8c0e38f8",null);n["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0af879.3d65b624.js.map
